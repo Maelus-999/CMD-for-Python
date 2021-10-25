@@ -10,7 +10,7 @@ def cmd_no_shutdown():
     os.system("shutdown /a")
 
 def cmd_new_txtFiles():
-    name_of_file = input("quel nom voulez vous pour le fichier? : ")
+    name_of_file = input("quel nom voulez vous pour le fichier texte? : ")
     myFile = open(name_of_file+".txt", "w+")
     texte_file = input("que voulez vous marquer dedans? : ")
     myFile.write(texte_file)
