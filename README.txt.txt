@@ -1,0 +1,16 @@
+~~~~~~~~~~~~~~~CMD bêta 0.1~~~~~~~~~~~~~~~
+
+
+Pour installer le package cmd:
+
+config minimum:
+Python 3.10
+Windows 7
+
+config recommander:
+Python 3.10 ou +
+Windows 10 ou +
+
+Installation une fois le zip installer il suffit de mettre le fichier cmd.py est le dossier config dans votre projet puis d'importer cmd
+
+~~~~~~~~~~~~~~~Package CMD by Quartz Studio~~~~~~~~~~~~~~~
