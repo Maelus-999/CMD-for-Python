@@ -1,4 +1,5 @@
 import config.version
+import config.Window
 import os
 
 def version():
@@ -32,4 +33,4 @@ def win():
     os.system("ver")
 
 def cmd():
-    os.system("start")
+    config.Window.terminal()
