@@ -147,5 +147,6 @@ print(" ")
 print(" ")
 print(" ")
 print(" ")
-input("Voici la commande qui sert a allumer un autre cmd usage: cmd.cmd()")
+input("Voici la commande qui sert a allumer un terminal special usage: cmd.cmd()")
 cmd.cmd()
+
