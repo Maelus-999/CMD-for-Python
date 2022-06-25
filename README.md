@@ -16,4 +16,4 @@ Autre Package nécessaire
 
 Installation: une fois le zip installer il suffit de mettre le fichier cmd.py est le dossier config dans votre projet puis d'importer cmd
 
-~~~~~~~~~~~~~~~Package CMD by Quartz Studio~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~Package CMD by Maelus999~~~~~~~~~~~~~~~
